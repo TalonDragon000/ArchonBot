@@ -1,0 +1,10 @@
+The Grand Market [WELCOME]
+You wander around what is known as The Grand Market, a large epi-center hub for all things trade and barter. It is a heavily guarded area with the best soldiers from every faction guarding parts they silently claimed for themselves, despite it being a neutral area that supposedly was made not to incite the need for factions. Ah well. 
+
+Which way do you want to proceed? 
+
+[Forward]
+You decided to go forward, down the main walkway and into the center of the massive colosseum. In the very heart was a beautiful water fountain made of gold and aged copper. The carving masterfully captured the awe of the people circling the feet of a larger entity with wide wings. While those on the lower level looked up at this deity, the angel itself looked to the sky, reaching up to a globe that glistened and gently cascaded clear water from the top opening. The water calmly trickled down the deity's palm and caressed down its arm until it fell in light and consistent drops to the pool below. 
+
+(Continue to admire, move on to the left, right, or go back?)
+[Admire] 
